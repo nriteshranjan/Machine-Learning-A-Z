@@ -9,5 +9,5 @@
 - _Reinforcement Learning_
 - _Natural Language Processing_
 - _Deep Learning_
-
-<img src = "https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20123341.jpg" width="256" height="256" title="Code Screenshots">
+**CODE SCREENSHOTS**
+<img src = "https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20123341.jpg" width="512" height="512" title="Code Screenshots">
