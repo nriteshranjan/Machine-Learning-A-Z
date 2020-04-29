@@ -10,4 +10,4 @@
 - _Natural Language Processing_
 - _Deep Learning_
 
-![Screenshot](https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20123341.jpg)
+<img src = "https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20123341.jpg" >
