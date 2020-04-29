@@ -13,5 +13,5 @@
 <p float="left">
 <img src = "https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20123341.jpg"  title="Code Screenshots">
 <img src = "https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20124242.jpg" width = 370 title = "Graphs">
-<img src = "https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20124309.jpg" width = 370 height = 300 title = "Graphs">
+<img src = "https://github.com/nriteshranjan/Machine-Learning-A-Z/blob/master/Part%204%20-%20Clustering/Section%2024%20-%20K-Means%20Clustering/Annotation%202020-04-29%20124309.jpg" width = 370 height = 250 title = "Graphs">
   </p>
