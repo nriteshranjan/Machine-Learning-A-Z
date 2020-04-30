@@ -13,7 +13,7 @@ import math
 N = 10000
 d = 10
 ads_selected = []
-numbers_of_selections = [0] * d
+numbers_of_selections = [0] * d #To create vector of size d only containing 0s
 sums_of_rewards = [0] * d
 total_reward = 0
 for n in range(0, N):
