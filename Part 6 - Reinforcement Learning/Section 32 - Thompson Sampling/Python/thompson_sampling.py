@@ -38,3 +38,5 @@ plt.title('Histogram of ads selections')
 plt.xlabel('Ads')
 plt.ylabel('Number of times each ad was selected')
 plt.show()
+
+#Result - Thompson Sampling algorithm is better than UCB
