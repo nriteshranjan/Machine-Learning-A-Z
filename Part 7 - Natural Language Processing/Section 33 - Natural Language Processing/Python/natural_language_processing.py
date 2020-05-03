@@ -6,9 +6,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Importing the dataset
-dataset = pd.read_csv('Restaurant_Reviews.tsv', delimiter = '\t', quoting = 3)
+dataset = pd.read_csv('Restaurant_Reviews.tsv', delimiter = '\t', quoting = 3) #tsv -> Tab seperated values #quoting = 3 parameter ensures that we are ignoring "
 
-# Cleaning the texts
+# Cleaning the texts -> removing punctuation, converting to lower case, stemming, and removing other non necessary words
 import re
 import nltk
 nltk.download('stopwords')
