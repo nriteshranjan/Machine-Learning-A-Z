@@ -1,4 +1,5 @@
 # Artificial Neural Network
+#Updated code
 
 # Importing the libraries
 import numpy as np
@@ -44,7 +45,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, rando
 ann = tf.keras.models.Sequential()
 
 # Adding the input layer and the first hidden layer
-ann.add(tf.keras.layers.Dense(units=6, activation='relu'))
+ann.add(tf.keras.layers.Denise(units=6, activation='relu'))
 
 # Adding the second hidden layer
 ann.add(tf.keras.layers.Dense(units=6, activation='relu'))
